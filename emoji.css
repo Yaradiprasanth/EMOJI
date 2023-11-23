@@ -1,0 +1,54 @@
+.face{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    background-color: rgb(212, 152, 165);
+    border-radius: 150px;
+}
+.eye1{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    margin-top:90px ;
+    margin-left: -150px;
+    background-color: white;
+
+}
+.eye2{
+    border: 1px solid black;
+    height: 40px;
+    width: 40px;
+    border-radius: 25px;
+    margin-top:-38px ;
+    margin-left: 100px;
+    background-color: white;
+}
+.ret1{
+    border: 1px solid black;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 11px;
+}
+.ret2{
+    border: 1px solid black;
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.mouth{
+    border: 1px solid black;
+    height: 70px;
+    width: 110px;
+    background-color: red;
+    border-radius: 0px 0px 60px 60px;
+    margin-top: 50px;
+
+
+
+
+}
